@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatelFodyNullException", "CatelFodyNullException\CatelFodyNullException.csproj", "{C6D54506-1073-48EE-A9DA-940D056270CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainLib", "DomainLib\DomainLib.csproj", "{20D98A6C-239F-4D0A-A8F1-7FFF37761B75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6D54506-1073-48EE-A9DA-940D056270CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D54506-1073-48EE-A9DA-940D056270CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D54506-1073-48EE-A9DA-940D056270CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D54506-1073-48EE-A9DA-940D056270CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D98A6C-239F-4D0A-A8F1-7FFF37761B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D98A6C-239F-4D0A-A8F1-7FFF37761B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D98A6C-239F-4D0A-A8F1-7FFF37761B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D98A6C-239F-4D0A-A8F1-7FFF37761B75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {724A84D3-9FE5-42F0-B57B-5047EF686225}
+	EndGlobalSection
+EndGlobal
